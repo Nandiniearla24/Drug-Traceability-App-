@@ -33,11 +33,11 @@ DrugTraceability/
    Your smart contract is deployed and connected using Web3.py
 # About Me
 I am Nandini Earla, currently pursuing my M.Tech at BVRIT College of Engineering for Women.
-With a strong interest in emerging technologies, I developed this project to explore how blockchain can be applied in critical domains like drug traceability. 
-This project reflects my skills in Django-based web development, smart contract programming using Solidity, and Ethereum integration through Web3.py.
-I’m passionate about building secure and innovative tech solutions that solve real-world problems and contribute to the future of digital trust.
+With a strong interest in emerging technologies, I developed this project to explore how blockchain can be used to solve real-world problems like drug traceability. 
+This system showcases my ability to work with Django, build and deploy smart contracts using Solidity, and connect blockchain logic to web applications through Web3.py.
+I’m passionate about creating secure, scalable, and impactful tech solutions that contribute to the future of digital trust.
 # Note
-This project is developed for academic purposes.
+This project is developed for academic and internship purposes.
 It runs on a local Ethereum blockchain (Ganache) environment and is intended to demonstrate how blockchain can be integrated with web applications for secure drug traceability.
 It can be extended further for deployment on public Ethereum networks or other production-grade blockchains.
 

@@ -1,4 +1,4 @@
-# Title name--BLOCKCHAIN – ENABLED DRUG TRACEABILITY IN HEALTH CARE SUPPLY CHAIN MANAGEMENT
+# Title Name--BLOCKCHAIN – ENABLED DRUG TRACEABILITY IN HEALTH CARE SUPPLY CHAIN MANAGEMENT
 This is a web application that helps trace and verify the authenticity of drugs using blockchain technology. It is built using Django for the backend and Solidity smart contracts deployed on Ethereum (Ganache) using Web3.py.
 # Technologies Used
 - Django (Python Framework)
